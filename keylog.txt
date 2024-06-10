@@ -1,0 +1,898 @@
+2024-06-10 10:33:59,674: Special key Key.enter pressed
+2024-06-10 10:34:41,241: Special key Key.enter pressed
+2024-06-10 10:35:04,691: Special key Key.backspace pressed
+2024-06-10 10:35:07,769: Special key Key.backspace pressed
+2024-06-10 10:35:09,826: Special key Key.backspace pressed
+2024-06-10 10:35:10,190: Special key Key.backspace pressed
+2024-06-10 10:35:13,651: Special key Key.backspace pressed
+2024-06-10 10:35:14,050: Special key Key.backspace pressed
+2024-06-10 10:35:17,147: Special key Key.backspace pressed
+2024-06-10 10:35:20,527: Special key Key.backspace pressed
+2024-06-10 10:35:26,271: Special key Key.backspace pressed
+2024-06-10 10:35:26,645: Special key Key.backspace pressed
+2024-06-10 10:35:51,727: Special key Key.enter pressed
+2024-06-10 10:39:55,292: Special key Key.ctrl_l pressed
+2024-06-10 10:39:55,880: KEY_A
+2024-06-10 10:39:56,191: KEY_V
+2024-06-10 10:39:56,757: Special key Key.ctrl_l pressed
+2024-06-10 10:39:57,008: KEY_A
+2024-06-10 10:39:57,429: KEY_C
+2024-06-10 10:39:59,683: Special key Key.ctrl_l pressed
+2024-06-10 10:39:59,905: KEY_V
+2024-06-10 10:40:01,144: Special key Key.enter pressed
+2024-06-10 10:40:17,933: Special key Key.shift pressed
+2024-06-10 10:40:18,504: Special key Key.ctrl_l pressed
+2024-06-10 10:40:18,718: KEY_C
+2024-06-10 10:40:21,444: Special key Key.ctrl_l pressed
+2024-06-10 10:40:21,640: KEY_A
+2024-06-10 10:40:21,993: KEY_C
+2024-06-10 10:40:26,505: Special key Key.ctrl_l pressed
+2024-06-10 10:40:26,666: KEY_C
+2024-06-10 10:40:29,617: Special key Key.ctrl_l pressed
+2024-06-10 10:40:30,022: KEY_A
+2024-06-10 10:40:31,265: KEY_V
+2024-06-10 10:40:31,975: Special key Key.ctrl_l pressed
+2024-06-10 10:40:32,199: KEY_A
+2024-06-10 10:40:32,495: KEY_C
+2024-06-10 10:40:35,567: Special key Key.ctrl_l pressed
+2024-06-10 10:40:35,664: KEY_V
+2024-06-10 10:40:46,060: Special key Key.enter pressed
+2024-06-10 10:40:47,049: Special key Key.enter pressed
+2024-06-10 10:40:50,665: Special key Key.backspace pressed
+2024-06-10 10:40:51,830: Special key Key.ctrl_l pressed
+2024-06-10 10:40:52,073: KEY_Z
+2024-06-10 10:40:52,856: Special key Key.backspace pressed
+2024-06-10 10:40:53,222: Special key Key.backspace pressed
+2024-06-10 10:40:53,469: Special key Key.backspace pressed
+2024-06-10 10:40:53,723: Special key Key.backspace pressed
+2024-06-10 10:41:06,298: Special key Key.ctrl_l pressed
+2024-06-10 10:41:06,409: KEY_C
+2024-06-10 10:41:09,057: Special key Key.ctrl_l pressed
+2024-06-10 10:41:09,378: KEY_A
+2024-06-10 10:41:09,594: KEY_V
+2024-06-10 10:41:10,171: Special key Key.ctrl_l pressed
+2024-06-10 10:41:10,375: KEY_A
+2024-06-10 10:41:10,683: KEY_C
+2024-06-10 10:41:30,860: KEY_DOT
+2024-06-10 10:41:31,145: Special key Key.enter pressed
+2024-06-10 10:41:32,114: Special key Key.ctrl_l pressed
+2024-06-10 10:41:32,304: KEY_V
+2024-06-10 10:41:33,999: Special key Key.enter pressed
+2024-06-10 10:41:35,516: Special key Key.backspace pressed
+2024-06-10 10:41:35,869: Special key Key.backspace pressed
+2024-06-10 10:41:44,158: Special key Key.backspace pressed
+2024-06-10 10:41:44,480: Special key Key.backspace pressed
+2024-06-10 10:41:44,849: Special key Key.backspace pressed
+2024-06-10 10:41:45,844: Special key Key.enter pressed
+2024-06-10 10:41:46,790: Special key Key.backspace pressed
+2024-06-10 10:41:49,769: Special key Key.shift_r pressed
+2024-06-10 10:41:49,974: KEY_SEMICOLON
+2024-06-10 10:41:52,252: Special key Key.backspace pressed
+2024-06-10 10:41:52,605: Special key Key.backspace pressed
+2024-06-10 10:41:52,932: Special key Key.backspace pressed
+2024-06-10 10:41:53,606: Special key Key.backspace pressed
+2024-06-10 10:41:54,931: Special key Key.ctrl_l pressed
+2024-06-10 10:41:55,068: KEY_Z
+2024-06-10 10:41:55,843: Special key Key.backspace pressed
+2024-06-10 10:41:56,736: Special key Key.enter pressed
+2024-06-10 10:41:58,717: Special key Key.backspace pressed
+2024-06-10 10:41:58,902: Special key Key.backspace pressed
+2024-06-10 10:41:59,158: Special key Key.backspace pressed
+2024-06-10 10:41:59,779: KEY_P
+2024-06-10 10:42:00,278: KEY_Y
+2024-06-10 10:42:00,551: KEY_C
+2024-06-10 10:42:00,700: KEY_H
+2024-06-10 10:42:00,850: KEY_A
+2024-06-10 10:42:00,979: KEY_R
+2024-06-10 10:42:01,313: KEY_M
+2024-06-10 10:42:03,514: Special key Key.enter pressed
+2024-06-10 10:42:06,202: Special key Key.enter pressed
+2024-06-10 10:42:15,403: Special key Key.ctrl_l pressed
+2024-06-10 10:42:15,700: KEY_A
+2024-06-10 10:42:15,967: KEY_V
+2024-06-10 10:42:16,528: Special key Key.ctrl_l pressed
+2024-06-10 10:42:16,759: KEY_A
+2024-06-10 10:42:17,026: KEY_C
+2024-06-10 10:42:20,187: Special key Key.enter pressed
+2024-06-10 10:42:20,862: Special key Key.ctrl_l pressed
+2024-06-10 10:42:20,974: KEY_V
+2024-06-10 10:42:23,097: Special key Key.space pressed
+2024-06-10 10:42:23,590: Special key Key.space pressed
+2024-06-10 10:42:23,620: Special key Key.space pressed
+2024-06-10 10:42:23,650: Special key Key.space pressed
+2024-06-10 10:42:23,680: Special key Key.space pressed
+2024-06-10 10:42:23,711: Special key Key.space pressed
+2024-06-10 10:42:23,741: Special key Key.space pressed
+2024-06-10 10:42:23,772: Special key Key.space pressed
+2024-06-10 10:42:23,802: Special key Key.space pressed
+2024-06-10 10:42:23,833: Special key Key.space pressed
+2024-06-10 10:42:23,862: Special key Key.space pressed
+2024-06-10 10:42:23,893: Special key Key.space pressed
+2024-06-10 10:42:23,923: Special key Key.space pressed
+2024-06-10 10:42:23,953: Special key Key.space pressed
+2024-06-10 10:42:23,984: Special key Key.space pressed
+2024-06-10 10:42:24,014: Special key Key.space pressed
+2024-06-10 10:42:24,044: Special key Key.space pressed
+2024-06-10 10:42:24,074: Special key Key.space pressed
+2024-06-10 10:42:24,452: KEY_MINUS
+2024-06-10 10:42:25,107: Special key Key.space pressed
+2024-06-10 10:42:27,817: Special key Key.enter pressed
+2024-06-10 10:42:28,491: Special key Key.backspace pressed
+2024-06-10 10:42:28,842: Special key Key.backspace pressed
+2024-06-10 10:42:29,190: Special key Key.backspace pressed
+2024-06-10 10:42:34,854: Special key Key.ctrl_l pressed
+2024-06-10 10:42:35,045: KEY_C
+2024-06-10 10:42:39,673: Special key Key.ctrl_l pressed
+2024-06-10 10:42:39,839: KEY_A
+2024-06-10 10:42:40,126: KEY_C
+2024-06-10 10:42:43,593: Special key Key.ctrl_l pressed
+2024-06-10 10:42:43,739: KEY_C
+2024-06-10 10:42:46,704: Special key Key.ctrl_l pressed
+2024-06-10 10:42:47,170: KEY_A
+2024-06-10 10:42:47,526: KEY_V
+2024-06-10 10:42:47,994: Special key Key.ctrl_l pressed
+2024-06-10 10:42:48,332: KEY_A
+2024-06-10 10:42:48,667: KEY_C
+2024-06-10 10:42:51,600: Special key Key.ctrl_l pressed
+2024-06-10 10:42:51,762: KEY_V
+2024-06-10 10:42:59,378: Special key Key.shift_r pressed
+2024-06-10 10:42:59,541: KEY_SEMICOLON
+2024-06-10 10:43:01,850: Special key Key.backspace pressed
+2024-06-10 10:43:02,135: Special key Key.backspace pressed
+2024-06-10 10:43:02,941: Special key Key.enter pressed
+2024-06-10 10:43:03,974: Special key Key.backspace pressed
+2024-06-10 10:43:06,045: Special key Key.backspace pressed
+2024-06-10 10:43:06,550: Special key Key.backspace pressed
+2024-06-10 10:43:07,193: Special key Key.enter pressed
+2024-06-10 10:43:13,378: Special key Key.enter pressed
+2024-06-10 10:43:19,555: Special key Key.enter pressed
+2024-06-10 10:43:28,475: Special key Key.ctrl_l pressed
+2024-06-10 10:43:28,669: KEY_A
+2024-06-10 10:43:28,901: KEY_V
+2024-06-10 10:43:29,548: Special key Key.ctrl_l pressed
+2024-06-10 10:43:29,818: KEY_A
+2024-06-10 10:43:30,192: KEY_C
+2024-06-10 10:43:33,107: Special key Key.space pressed
+2024-06-10 10:43:33,609: Special key Key.space pressed
+2024-06-10 10:43:33,639: Special key Key.space pressed
+2024-06-10 10:43:33,670: Special key Key.space pressed
+2024-06-10 10:43:33,700: Special key Key.space pressed
+2024-06-10 10:43:33,730: Special key Key.space pressed
+2024-06-10 10:43:33,760: Special key Key.space pressed
+2024-06-10 10:43:33,791: Special key Key.space pressed
+2024-06-10 10:43:33,821: Special key Key.space pressed
+2024-06-10 10:43:33,851: Special key Key.space pressed
+2024-06-10 10:43:33,881: Special key Key.space pressed
+2024-06-10 10:43:33,912: Special key Key.space pressed
+2024-06-10 10:43:33,950: Special key Key.space pressed
+2024-06-10 10:43:33,972: Special key Key.space pressed
+2024-06-10 10:43:34,002: Special key Key.space pressed
+2024-06-10 10:43:34,033: Special key Key.space pressed
+2024-06-10 10:43:34,063: Special key Key.space pressed
+2024-06-10 10:43:34,094: Special key Key.space pressed
+2024-06-10 10:43:34,123: Special key Key.space pressed
+2024-06-10 10:43:34,154: Special key Key.space pressed
+2024-06-10 10:43:34,184: Special key Key.space pressed
+2024-06-10 10:43:34,214: Special key Key.space pressed
+2024-06-10 10:43:34,244: Special key Key.space pressed
+2024-06-10 10:43:34,275: Special key Key.space pressed
+2024-06-10 10:43:34,457: Special key Key.ctrl_l pressed
+2024-06-10 10:43:34,685: KEY_V
+2024-06-10 10:43:36,716: Special key Key.space pressed
+2024-06-10 10:43:37,219: Special key Key.space pressed
+2024-06-10 10:43:37,249: Special key Key.space pressed
+2024-06-10 10:43:37,280: Special key Key.space pressed
+2024-06-10 10:43:37,310: Special key Key.space pressed
+2024-06-10 10:43:37,341: Special key Key.space pressed
+2024-06-10 10:43:37,370: Special key Key.space pressed
+2024-06-10 10:43:37,401: Special key Key.space pressed
+2024-06-10 10:43:37,431: Special key Key.space pressed
+2024-06-10 10:43:37,461: Special key Key.space pressed
+2024-06-10 10:43:37,491: Special key Key.space pressed
+2024-06-10 10:43:37,521: Special key Key.space pressed
+2024-06-10 10:43:37,551: Special key Key.space pressed
+2024-06-10 10:43:37,583: Special key Key.space pressed
+2024-06-10 10:43:37,612: Special key Key.space pressed
+2024-06-10 10:43:37,642: Special key Key.space pressed
+2024-06-10 10:43:37,672: Special key Key.space pressed
+2024-06-10 10:43:37,703: Special key Key.space pressed
+2024-06-10 10:43:37,733: Special key Key.space pressed
+2024-06-10 10:43:38,061: Special key Key.space pressed
+2024-06-10 10:43:38,269: Special key Key.space pressed
+2024-06-10 10:43:38,637: Special key Key.space pressed
+2024-06-10 10:43:39,007: Special key Key.space pressed
+2024-06-10 10:43:40,646: Special key Key.space pressed
+2024-06-10 10:43:42,640: Special key Key.backspace pressed
+2024-06-10 10:43:45,285: KEY_MINUS
+2024-06-10 10:43:47,493: KEY_MINUS
+2024-06-10 10:43:50,270: Special key Key.enter pressed
+2024-06-10 10:43:57,437: Special key Key.ctrl_l pressed
+2024-06-10 10:43:57,576: KEY_C
+2024-06-10 10:44:02,278: Special key Key.ctrl_l pressed
+2024-06-10 10:44:02,467: KEY_A
+2024-06-10 10:44:02,794: KEY_C
+2024-06-10 10:44:08,619: Special key Key.ctrl_l pressed
+2024-06-10 10:44:08,722: KEY_C
+2024-06-10 10:44:12,650: Special key Key.ctrl_l pressed
+2024-06-10 10:44:12,845: KEY_A
+2024-06-10 10:44:13,121: KEY_V
+2024-06-10 10:44:13,540: Special key Key.ctrl_l pressed
+2024-06-10 10:44:13,745: KEY_A
+2024-06-10 10:44:14,107: KEY_C
+2024-06-10 10:44:17,220: Special key Key.ctrl_l pressed
+2024-06-10 10:44:17,350: KEY_V
+2024-06-10 10:44:18,660: Special key Key.ctrl_l pressed
+2024-06-10 10:44:24,662: Special key Key.enter pressed
+2024-06-10 10:44:33,709: KEY_1
+2024-06-10 10:44:34,017: KEY_DOT
+2024-06-10 10:44:34,282: Special key Key.space pressed
+2024-06-10 10:44:36,846: KEY_2
+2024-06-10 10:44:37,076: KEY_DOT
+2024-06-10 10:44:37,302: Special key Key.space pressed
+2024-06-10 10:44:40,459: Special key Key.space pressed
+2024-06-10 10:44:40,965: Special key Key.space pressed
+2024-06-10 10:44:40,994: Special key Key.space pressed
+2024-06-10 10:44:41,024: Special key Key.space pressed
+2024-06-10 10:44:41,120: Special key Key.space pressed
+2024-06-10 10:44:41,122: Special key Key.space pressed
+2024-06-10 10:44:41,123: Special key Key.space pressed
+2024-06-10 10:44:41,145: Special key Key.space pressed
+2024-06-10 10:44:41,175: Special key Key.space pressed
+2024-06-10 10:44:41,205: Special key Key.space pressed
+2024-06-10 10:44:41,236: Special key Key.space pressed
+2024-06-10 10:44:41,268: Special key Key.space pressed
+2024-06-10 10:44:41,919: Special key Key.backspace pressed
+2024-06-10 10:44:42,398: Special key Key.backspace pressed
+2024-06-10 10:44:42,946: Special key Key.backspace pressed
+2024-06-10 10:44:44,983: Special key Key.space pressed
+2024-06-10 10:44:45,489: Special key Key.space pressed
+2024-06-10 10:44:45,517: Special key Key.space pressed
+2024-06-10 10:44:45,547: Special key Key.space pressed
+2024-06-10 10:44:45,578: Special key Key.space pressed
+2024-06-10 10:44:45,608: Special key Key.space pressed
+2024-06-10 10:44:45,639: Special key Key.space pressed
+2024-06-10 10:44:45,669: Special key Key.space pressed
+2024-06-10 10:44:45,699: Special key Key.space pressed
+2024-06-10 10:44:46,170: Special key Key.backspace pressed
+2024-06-10 10:45:50,939: Special key Key.enter pressed
+2024-06-10 10:45:51,958: Special key Key.space pressed
+2024-06-10 10:45:52,467: Special key Key.space pressed
+2024-06-10 10:45:52,495: Special key Key.space pressed
+2024-06-10 10:45:52,525: Special key Key.space pressed
+2024-06-10 10:45:52,554: Special key Key.space pressed
+2024-06-10 10:45:53,098: Special key Key.space pressed
+2024-06-10 10:45:53,379: Special key Key.space pressed
+2024-06-10 10:46:03,071: Special key Key.ctrl_l pressed
+2024-06-10 10:46:03,222: KEY_A
+2024-06-10 10:46:04,183: KEY_V
+2024-06-10 10:46:04,853: Special key Key.ctrl_l pressed
+2024-06-10 10:46:05,142: KEY_A
+2024-06-10 10:46:05,422: KEY_C
+2024-06-10 10:46:08,547: Special key Key.ctrl_l pressed
+2024-06-10 10:46:08,715: KEY_V
+2024-06-10 10:46:36,907: KEY_3
+2024-06-10 10:46:37,118: KEY_DOT
+2024-06-10 10:46:37,302: Special key Key.space pressed
+2024-06-10 10:46:43,669: Special key Key.ctrl_l pressed
+2024-06-10 10:46:43,866: KEY_C
+2024-06-10 10:46:46,525: Special key Key.ctrl_l pressed
+2024-06-10 10:46:46,740: KEY_A
+2024-06-10 10:46:47,204: KEY_V
+2024-06-10 10:46:47,595: Special key Key.ctrl_l pressed
+2024-06-10 10:46:47,825: KEY_A
+2024-06-10 10:46:48,127: KEY_C
+2024-06-10 10:46:50,977: Special key Key.ctrl_l pressed
+2024-06-10 10:46:51,159: KEY_V
+2024-06-10 10:46:53,451: Special key Key.backspace pressed
+2024-06-10 10:46:55,047: Special key Key.backspace pressed
+2024-06-10 10:46:55,964: Special key Key.backspace pressed
+2024-06-10 10:46:57,230: Special key Key.backspace pressed
+2024-06-10 10:46:57,931: Special key Key.enter pressed
+2024-06-10 10:46:58,887: Special key Key.backspace pressed
+2024-06-10 10:47:10,560: Special key Key.ctrl_l pressed
+2024-06-10 10:47:10,810: KEY_A
+2024-06-10 10:47:11,961: KEY_V
+2024-06-10 10:47:12,477: Special key Key.ctrl_l pressed
+2024-06-10 10:47:12,781: KEY_A
+2024-06-10 10:47:13,179: KEY_C
+2024-06-10 10:47:20,105: Special key Key.backspace pressed
+2024-06-10 10:47:20,543: Special key Key.backspace pressed
+2024-06-10 10:47:23,073: Special key Key.backspace pressed
+2024-06-10 10:47:23,279: Special key Key.backspace pressed
+2024-06-10 10:47:27,442: Special key Key.backspace pressed
+2024-06-10 10:47:28,040: Special key Key.backspace pressed
+2024-06-10 10:47:31,545: Special key Key.ctrl_l pressed
+2024-06-10 10:47:31,708: KEY_A
+2024-06-10 10:47:32,004: KEY_C
+2024-06-10 10:47:36,128: Special key Key.enter pressed
+2024-06-10 10:47:36,863: Special key Key.ctrl_l pressed
+2024-06-10 10:47:36,969: KEY_V
+2024-06-10 10:47:47,391: Special key Key.enter pressed
+2024-06-10 10:47:56,299: Special key Key.enter pressed
+2024-06-10 10:47:59,618: Special key Key.enter pressed
+2024-06-10 10:48:12,137: Special key Key.ctrl_l pressed
+2024-06-10 10:48:12,292: KEY_C
+2024-06-10 10:48:14,503: Special key Key.ctrl_l pressed
+2024-06-10 10:48:14,744: KEY_A
+2024-06-10 10:48:15,462: KEY_V
+2024-06-10 10:48:15,895: Special key Key.ctrl_l pressed
+2024-06-10 10:48:16,216: KEY_A
+2024-06-10 10:48:16,551: KEY_C
+2024-06-10 10:48:19,544: Special key Key.ctrl_l pressed
+2024-06-10 10:48:19,708: KEY_V
+2024-06-10 10:48:21,606: Special key Key.space pressed
+2024-06-10 10:48:22,407: Special key Key.backspace pressed
+2024-06-10 10:48:23,247: Special key Key.space pressed
+2024-06-10 10:49:10,933: Special key Key.backspace pressed
+2024-06-10 10:49:11,391: Special key Key.backspace pressed
+2024-06-10 10:49:11,807: Special key Key.backspace pressed
+2024-06-10 10:49:12,239: Special key Key.backspace pressed
+2024-06-10 10:49:13,060: Special key Key.enter pressed
+2024-06-10 10:49:13,602: Special key Key.space pressed
+2024-06-10 10:49:14,434: Special key Key.backspace pressed
+2024-06-10 10:49:16,711: Special key Key.backspace pressed
+2024-06-10 10:49:17,185: Special key Key.backspace pressed
+2024-06-10 10:49:17,589: Special key Key.backspace pressed
+2024-06-10 10:49:18,016: Special key Key.backspace pressed
+2024-06-10 10:49:18,630: Special key Key.enter pressed
+2024-06-10 10:49:21,694: Special key Key.enter pressed
+2024-06-10 10:49:27,301: Special key Key.enter pressed
+2024-06-10 10:49:30,186: Special key Key.enter pressed
+2024-06-10 10:49:34,194: Special key Key.backspace pressed
+2024-06-10 10:49:34,612: Special key Key.backspace pressed
+2024-06-10 10:49:48,629: Special key Key.backspace pressed
+2024-06-10 10:49:49,070: Special key Key.backspace pressed
+2024-06-10 10:49:51,000: KEY_4
+2024-06-10 10:49:51,224: KEY_DOT
+2024-06-10 10:49:51,436: Special key Key.space pressed
+2024-06-10 10:49:57,498: Special key Key.space pressed
+2024-06-10 10:49:57,731: Special key Key.space pressed
+2024-06-10 10:49:58,056: Special key Key.space pressed
+2024-06-10 10:49:58,272: Special key Key.space pressed
+2024-06-10 10:49:58,649: Special key Key.space pressed
+2024-06-10 10:49:58,984: Special key Key.space pressed
+2024-06-10 10:49:59,258: Special key Key.space pressed
+2024-06-10 10:49:59,577: Special key Key.space pressed
+2024-06-10 10:50:00,175: Special key Key.backspace pressed
+2024-06-10 10:50:03,142: Special key Key.backspace pressed
+2024-06-10 10:50:03,479: Special key Key.backspace pressed
+2024-06-10 10:50:03,974: Special key Key.backspace pressed
+2024-06-10 10:50:04,568: Special key Key.enter pressed
+2024-06-10 10:50:05,774: Special key Key.backspace pressed
+2024-06-10 10:50:08,463: Special key Key.shift_r pressed
+2024-06-10 10:50:08,655: KEY_SEMICOLON
+2024-06-10 10:50:12,033: Special key Key.enter pressed
+2024-06-10 10:50:28,634: Special key Key.ctrl_l pressed
+2024-06-10 10:50:28,791: KEY_A
+2024-06-10 10:50:29,107: KEY_V
+2024-06-10 10:50:29,450: Special key Key.ctrl_l pressed
+2024-06-10 10:50:29,620: KEY_A
+2024-06-10 10:50:30,225: KEY_C
+2024-06-10 10:50:32,833: Special key Key.ctrl_l pressed
+2024-06-10 10:50:33,039: KEY_V
+2024-06-10 10:50:35,178: KEY_MINUS
+2024-06-10 10:50:35,419: Special key Key.space pressed
+2024-06-10 10:50:37,607: Special key Key.enter pressed
+2024-06-10 10:50:38,521: Special key Key.backspace pressed
+2024-06-10 10:50:38,900: Special key Key.backspace pressed
+2024-06-10 10:50:39,494: Special key Key.backspace pressed
+2024-06-10 10:50:40,320: Special key Key.space pressed
+2024-06-10 10:50:40,822: Special key Key.space pressed
+2024-06-10 10:50:40,852: Special key Key.space pressed
+2024-06-10 10:50:40,882: Special key Key.space pressed
+2024-06-10 10:50:40,913: Special key Key.space pressed
+2024-06-10 10:50:40,942: Special key Key.space pressed
+2024-06-10 10:50:40,974: Special key Key.space pressed
+2024-06-10 10:50:41,002: Special key Key.space pressed
+2024-06-10 10:50:41,034: Special key Key.space pressed
+2024-06-10 10:50:41,290: Special key Key.space pressed
+2024-06-10 10:50:41,491: Special key Key.space pressed
+2024-06-10 10:50:41,689: Special key Key.space pressed
+2024-06-10 10:50:41,914: Special key Key.space pressed
+2024-06-10 10:50:42,154: Special key Key.space pressed
+2024-06-10 10:50:47,501: Special key Key.ctrl_l pressed
+2024-06-10 10:50:47,669: KEY_C
+2024-06-10 10:50:49,896: Special key Key.ctrl_l pressed
+2024-06-10 10:50:50,145: KEY_A
+2024-06-10 10:50:51,662: KEY_V
+2024-06-10 10:50:52,064: Special key Key.ctrl_l pressed
+2024-06-10 10:50:52,307: KEY_A
+2024-06-10 10:50:52,539: KEY_C
+2024-06-10 10:50:55,652: Special key Key.ctrl_l pressed
+2024-06-10 10:50:55,747: KEY_V
+2024-06-10 10:50:58,003: Special key Key.backspace pressed
+2024-06-10 10:50:58,310: Special key Key.backspace pressed
+2024-06-10 10:50:58,908: Special key Key.enter pressed
+2024-06-10 10:50:59,803: Special key Key.backspace pressed
+2024-06-10 10:51:00,193: Special key Key.backspace pressed
+2024-06-10 10:51:00,837: Special key Key.enter pressed
+2024-06-10 10:51:01,584: Special key Key.space pressed
+2024-06-10 10:51:02,083: Special key Key.space pressed
+2024-06-10 10:51:02,112: Special key Key.space pressed
+2024-06-10 10:51:02,142: Special key Key.space pressed
+2024-06-10 10:51:02,173: Special key Key.space pressed
+2024-06-10 10:51:02,203: Special key Key.space pressed
+2024-06-10 10:51:02,234: Special key Key.space pressed
+2024-06-10 10:51:02,263: Special key Key.space pressed
+2024-06-10 10:51:02,294: Special key Key.space pressed
+2024-06-10 10:51:02,323: Special key Key.space pressed
+2024-06-10 10:51:02,354: Special key Key.space pressed
+2024-06-10 10:51:02,384: Special key Key.space pressed
+2024-06-10 10:51:02,415: Special key Key.space pressed
+2024-06-10 10:51:02,444: Special key Key.space pressed
+2024-06-10 10:51:02,476: Special key Key.space pressed
+2024-06-10 10:51:06,122: Special key Key.backspace pressed
+2024-06-10 10:51:06,705: Special key Key.backspace pressed
+2024-06-10 10:51:07,391: Special key Key.space pressed
+2024-06-10 10:51:07,658: Special key Key.space pressed
+2024-06-10 10:51:08,293: Special key Key.space pressed
+2024-06-10 10:51:27,787: Special key Key.enter pressed
+2024-06-10 10:51:28,803: Special key Key.ctrl_l pressed
+2024-06-10 10:51:28,994: KEY_Z
+2024-06-10 10:51:30,484: Special key Key.enter pressed
+2024-06-10 10:51:31,065: Special key Key.space pressed
+2024-06-10 10:51:31,567: Special key Key.space pressed
+2024-06-10 10:51:31,597: Special key Key.space pressed
+2024-06-10 10:51:31,850: Special key Key.backspace pressed
+2024-06-10 10:51:32,001: Special key Key.backspace pressed
+2024-06-10 10:51:32,152: Special key Key.backspace pressed
+2024-06-10 10:51:32,315: Special key Key.backspace pressed
+2024-06-10 10:51:32,497: Special key Key.backspace pressed
+2024-06-10 10:51:32,716: Special key Key.backspace pressed
+2024-06-10 10:51:34,235: Special key Key.ctrl_l pressed
+2024-06-10 10:51:34,430: KEY_Z
+2024-06-10 10:51:34,989: Special key Key.ctrl_l pressed
+2024-06-10 10:51:35,148: KEY_V
+2024-06-10 10:51:39,976: Special key Key.backspace pressed
+2024-06-10 10:51:40,280: Special key Key.backspace pressed
+2024-06-10 10:51:40,552: Special key Key.backspace pressed
+2024-06-10 10:51:40,755: Special key Key.backspace pressed
+2024-06-10 10:51:40,992: Special key Key.backspace pressed
+2024-06-10 10:51:41,170: Special key Key.backspace pressed
+2024-06-10 10:51:41,395: Special key Key.backspace pressed
+2024-06-10 10:51:41,629: Special key Key.backspace pressed
+2024-06-10 10:51:41,826: Special key Key.backspace pressed
+2024-06-10 10:51:42,066: Special key Key.backspace pressed
+2024-06-10 10:51:42,253: Special key Key.backspace pressed
+2024-06-10 10:51:42,426: Special key Key.backspace pressed
+2024-06-10 10:51:42,598: Special key Key.backspace pressed
+2024-06-10 10:51:42,783: Special key Key.backspace pressed
+2024-06-10 10:51:43,000: Special key Key.backspace pressed
+2024-06-10 10:51:43,152: Special key Key.backspace pressed
+2024-06-10 10:51:43,366: Special key Key.backspace pressed
+2024-06-10 10:51:44,240: Special key Key.enter pressed
+2024-06-10 10:51:45,217: Special key Key.backspace pressed
+2024-06-10 10:51:45,644: Special key Key.backspace pressed
+2024-06-10 10:51:46,302: Special key Key.backspace pressed
+2024-06-10 10:51:47,747: Special key Key.ctrl_l pressed
+2024-06-10 10:51:47,942: KEY_Z
+2024-06-10 10:51:48,481: KEY_Z
+2024-06-10 10:51:49,053: KEY_Z
+2024-06-10 10:51:49,678: Special key Key.ctrl_l pressed
+2024-06-10 10:51:49,882: KEY_Z
+2024-06-10 10:51:50,415: KEY_Z
+2024-06-10 10:51:51,004: Special key Key.ctrl_l pressed
+2024-06-10 10:51:51,325: KEY_Z
+2024-06-10 10:51:51,759: KEY_Z
+2024-06-10 10:51:52,094: KEY_Z
+2024-06-10 10:51:52,598: KEY_Z
+2024-06-10 10:51:52,627: KEY_Z
+2024-06-10 10:51:52,657: KEY_Z
+2024-06-10 10:51:52,688: KEY_Z
+2024-06-10 10:51:52,859: Special key Key.ctrl_l pressed
+2024-06-10 10:51:52,969: KEY_Z
+2024-06-10 10:51:53,200: KEY_Z
+2024-06-10 10:51:53,382: KEY_Z
+2024-06-10 10:51:53,579: KEY_Z
+2024-06-10 10:51:53,830: KEY_Z
+2024-06-10 10:51:54,080: KEY_Z
+2024-06-10 10:51:54,324: KEY_Z
+2024-06-10 10:51:54,850: KEY_Z
+2024-06-10 10:51:58,435: Special key Key.backspace pressed
+2024-06-10 10:51:58,738: Special key Key.backspace pressed
+2024-06-10 10:51:59,666: Special key Key.space pressed
+2024-06-10 10:52:00,171: Special key Key.space pressed
+2024-06-10 10:52:00,214: Special key Key.space pressed
+2024-06-10 10:52:00,230: Special key Key.space pressed
+2024-06-10 10:52:00,262: Special key Key.space pressed
+2024-06-10 10:52:00,292: Special key Key.space pressed
+2024-06-10 10:52:00,322: Special key Key.space pressed
+2024-06-10 10:52:00,352: Special key Key.space pressed
+2024-06-10 10:52:00,383: Special key Key.space pressed
+2024-06-10 10:52:00,412: Special key Key.space pressed
+2024-06-10 10:52:00,443: Special key Key.space pressed
+2024-06-10 10:52:00,473: Special key Key.space pressed
+2024-06-10 10:52:00,504: Special key Key.space pressed
+2024-06-10 10:52:00,534: Special key Key.space pressed
+2024-06-10 10:52:01,073: Special key Key.space pressed
+2024-06-10 10:52:01,732: Special key Key.backspace pressed
+2024-06-10 10:52:05,523: Special key Key.ctrl_l pressed
+2024-06-10 10:52:05,675: KEY_C
+2024-06-10 10:52:07,783: Special key Key.ctrl_l pressed
+2024-06-10 10:52:07,957: KEY_V
+2024-06-10 10:52:11,947: Special key Key.ctrl_l pressed
+2024-06-10 10:52:12,053: KEY_C
+2024-06-10 10:52:14,683: Special key Key.enter pressed
+2024-06-10 10:52:15,569: Special key Key.backspace pressed
+2024-06-10 10:52:15,934: Special key Key.backspace pressed
+2024-06-10 10:52:16,210: Special key Key.backspace pressed
+2024-06-10 10:52:16,991: Special key Key.shift_r pressed
+2024-06-10 10:52:17,180: KEY_SEMICOLON
+2024-06-10 10:52:17,540: Special key Key.space pressed
+2024-06-10 10:52:17,969: Special key Key.ctrl_l pressed
+2024-06-10 10:52:18,184: KEY_V
+2024-06-10 10:52:21,141: Special key Key.enter pressed
+2024-06-10 10:52:22,503: Special key Key.enter pressed
+2024-06-10 10:52:23,423: Special key Key.backspace pressed
+2024-06-10 10:52:23,663: Special key Key.backspace pressed
+2024-06-10 10:52:23,883: Special key Key.backspace pressed
+2024-06-10 10:52:27,638: Special key Key.enter pressed
+2024-06-10 10:52:29,756: Special key Key.enter pressed
+2024-06-10 10:52:32,347: Special key Key.backspace pressed
+2024-06-10 10:52:32,681: Special key Key.backspace pressed
+2024-06-10 10:52:40,293: Special key Key.ctrl_l pressed
+2024-06-10 10:52:40,434: KEY_C
+2024-06-10 10:52:43,358: Special key Key.ctrl_l pressed
+2024-06-10 10:52:43,459: KEY_V
+2024-06-10 10:52:46,577: Special key Key.ctrl_l pressed
+2024-06-10 10:52:47,085: KEY_Z
+2024-06-10 10:52:49,503: Special key Key.ctrl_l pressed
+2024-06-10 10:52:49,643: KEY_V
+2024-06-10 10:52:51,847: Special key Key.enter pressed
+2024-06-10 10:52:52,984: Special key Key.backspace pressed
+2024-06-10 10:52:58,911: Special key Key.ctrl_l pressed
+2024-06-10 10:52:59,067: KEY_C
+2024-06-10 10:53:01,968: Special key Key.ctrl_l pressed
+2024-06-10 10:53:02,161: KEY_V
+2024-06-10 10:53:09,082: Special key Key.enter pressed
+2024-06-10 10:53:25,476: Special key Key.ctrl_l pressed
+2024-06-10 10:53:25,594: KEY_C
+2024-06-10 10:53:26,418: Special key Key.ctrl_l pressed
+2024-06-10 10:53:26,487: KEY_C
+2024-06-10 10:53:31,491: Special key Key.ctrl_l pressed
+2024-06-10 10:53:31,607: KEY_V
+2024-06-10 10:53:34,297: Special key Key.backspace pressed
+2024-06-10 10:53:34,714: Special key Key.backspace pressed
+2024-06-10 10:53:35,762: Special key Key.ctrl_l pressed
+2024-06-10 10:53:35,926: KEY_Z
+2024-06-10 10:53:36,457: Special key Key.backspace pressed
+2024-06-10 10:53:37,492: Special key Key.backspace pressed
+2024-06-10 10:53:37,947: Special key Key.backspace pressed
+2024-06-10 10:53:39,139: Special key Key.enter pressed
+2024-06-10 10:53:43,582: Special key Key.enter pressed
+2024-06-10 10:53:44,170: Special key Key.space pressed
+2024-06-10 10:53:44,674: Special key Key.space pressed
+2024-06-10 10:53:44,703: Special key Key.space pressed
+2024-06-10 10:53:44,733: Special key Key.space pressed
+2024-06-10 10:53:44,764: Special key Key.space pressed
+2024-06-10 10:53:44,794: Special key Key.space pressed
+2024-06-10 10:53:44,824: Special key Key.space pressed
+2024-06-10 10:53:44,854: Special key Key.space pressed
+2024-06-10 10:53:44,885: Special key Key.space pressed
+2024-06-10 10:53:44,916: Special key Key.space pressed
+2024-06-10 10:53:44,946: Special key Key.space pressed
+2024-06-10 10:53:44,976: Special key Key.space pressed
+2024-06-10 10:53:45,048: Special key Key.space pressed
+2024-06-10 10:53:46,650: Special key Key.backspace pressed
+2024-06-10 10:53:47,442: KEY_MINUS
+2024-06-10 10:53:47,683: Special key Key.space pressed
+2024-06-10 10:54:01,215: Special key Key.ctrl_l pressed
+2024-06-10 10:54:01,352: KEY_V
+2024-06-10 10:54:03,875: Special key Key.backspace pressed
+2024-06-10 10:54:04,244: Special key Key.backspace pressed
+2024-06-10 10:54:04,925: Special key Key.enter pressed
+2024-06-10 10:54:05,943: KEY_MINUS
+2024-06-10 10:54:06,488: Special key Key.space pressed
+2024-06-10 10:54:09,158: Special key Key.enter pressed
+2024-06-10 10:54:10,120: Special key Key.backspace pressed
+2024-06-10 10:54:10,602: Special key Key.backspace pressed
+2024-06-10 10:54:11,323: Special key Key.backspace pressed
+2024-06-10 10:54:11,729: Special key Key.backspace pressed
+2024-06-10 10:54:13,945: Special key Key.enter pressed
+2024-06-10 10:54:14,992: Special key Key.backspace pressed
+2024-06-10 10:54:15,390: Special key Key.backspace pressed
+2024-06-10 10:54:15,811: Special key Key.backspace pressed
+2024-06-10 10:54:16,765: Special key Key.space pressed
+2024-06-10 10:54:17,267: Special key Key.space pressed
+2024-06-10 10:54:17,299: Special key Key.space pressed
+2024-06-10 10:54:17,325: Special key Key.space pressed
+2024-06-10 10:54:17,357: Special key Key.space pressed
+2024-06-10 10:54:17,387: Special key Key.space pressed
+2024-06-10 10:54:17,417: Special key Key.space pressed
+2024-06-10 10:54:20,448: Special key Key.ctrl_l pressed
+2024-06-10 10:54:20,590: KEY_C
+2024-06-10 10:54:22,541: Special key Key.enter pressed
+2024-06-10 10:54:23,179: Special key Key.backspace pressed
+2024-06-10 10:54:24,302: Special key Key.ctrl_l pressed
+2024-06-10 10:54:24,362: KEY_V
+2024-06-10 10:54:26,274: Special key Key.enter pressed
+2024-06-10 10:54:27,341: Special key Key.backspace pressed
+2024-06-10 10:54:33,734: Special key Key.ctrl_l pressed
+2024-06-10 10:54:33,914: KEY_C
+2024-06-10 10:54:39,838: Special key Key.ctrl_l pressed
+2024-06-10 10:54:40,143: KEY_C
+2024-06-10 10:54:45,750: Special key Key.ctrl_l pressed
+2024-06-10 10:54:46,417: KEY_V
+2024-06-10 10:54:47,868: Special key Key.ctrl_l pressed
+2024-06-10 10:54:48,071: KEY_A
+2024-06-10 10:54:48,383: KEY_C
+2024-06-10 10:54:57,497: Special key Key.ctrl_l pressed
+2024-06-10 10:54:57,669: KEY_C
+2024-06-10 10:55:00,430: Special key Key.ctrl_l pressed
+2024-06-10 10:55:00,598: KEY_V
+2024-06-10 10:55:01,477: Special key Key.enter pressed
+2024-06-10 10:55:07,972: Special key Key.ctrl_l pressed
+2024-06-10 10:55:08,141: KEY_C
+2024-06-10 10:55:12,892: Special key Key.ctrl_l pressed
+2024-06-10 10:55:13,099: KEY_V
+2024-06-10 10:55:14,985: Special key Key.backspace pressed
+2024-06-10 10:55:15,528: Special key Key.backspace pressed
+2024-06-10 10:55:16,164: Special key Key.backspace pressed
+2024-06-10 10:55:16,705: Special key Key.backspace pressed
+2024-06-10 10:55:17,370: Special key Key.enter pressed
+2024-06-10 10:55:30,234: Special key Key.backspace pressed
+2024-06-10 10:55:32,557: Special key Key.enter pressed
+2024-06-10 10:55:40,490: Special key Key.ctrl_l pressed
+2024-06-10 10:55:40,628: KEY_V
+2024-06-10 10:55:42,254: KEY_MINUS
+2024-06-10 10:55:42,945: Special key Key.backspace pressed
+2024-06-10 10:55:44,498: KEY_MINUS
+2024-06-10 10:55:44,740: Special key Key.space pressed
+2024-06-10 10:55:50,455: Special key Key.shift_r pressed
+2024-06-10 10:55:51,513: Special key Key.enter pressed
+2024-06-10 10:55:52,039: Special key Key.backspace pressed
+2024-06-10 10:55:52,282: Special key Key.backspace pressed
+2024-06-10 10:55:52,861: Special key Key.backspace pressed
+2024-06-10 10:56:00,753: Special key Key.ctrl_l pressed
+2024-06-10 10:56:00,990: KEY_C
+2024-06-10 10:56:04,142: Special key Key.ctrl_l pressed
+2024-06-10 10:56:04,445: KEY_A
+2024-06-10 10:56:04,776: KEY_V
+2024-06-10 10:56:05,508: Special key Key.ctrl_l pressed
+2024-06-10 10:56:05,763: KEY_A
+2024-06-10 10:56:06,052: KEY_C
+2024-06-10 10:56:08,576: Special key Key.ctrl_l pressed
+2024-06-10 10:56:08,771: KEY_V
+2024-06-10 10:56:16,838: Special key Key.backspace pressed
+2024-06-10 10:56:17,209: Special key Key.backspace pressed
+2024-06-10 10:56:18,084: Special key Key.shift_r pressed
+2024-06-10 10:56:18,275: KEY_SEMICOLON
+2024-06-10 10:56:18,741: KEY_BACKSLASH
+2024-06-10 10:56:19,481: Special key Key.backspace pressed
+2024-06-10 10:56:19,753: Special key Key.enter pressed
+2024-06-10 10:56:20,939: Special key Key.backspace pressed
+2024-06-10 10:56:23,380: Special key Key.ctrl_l pressed
+2024-06-10 10:56:23,576: KEY_Z
+2024-06-10 10:56:37,564: Special key Key.backspace pressed
+2024-06-10 10:56:44,446: Special key Key.backspace pressed
+2024-06-10 10:56:44,749: Special key Key.backspace pressed
+2024-06-10 10:56:45,705: Special key Key.enter pressed
+2024-06-10 10:56:49,002: Special key Key.enter pressed
+2024-06-10 10:56:51,219: Special key Key.enter pressed
+2024-06-10 10:56:52,057: Special key Key.backspace pressed
+2024-06-10 10:57:00,529: Special key Key.space pressed
+2024-06-10 10:57:02,817: Special key Key.shift_r pressed
+2024-06-10 10:57:03,204: KEY_SEMICOLON
+2024-06-10 10:57:03,708: Special key Key.space pressed
+2024-06-10 10:57:10,586: Special key Key.backspace pressed
+2024-06-10 10:57:11,048: Special key Key.backspace pressed
+2024-06-10 10:57:11,738: Special key Key.enter pressed
+2024-06-10 10:57:12,641: Special key Key.backspace pressed
+2024-06-10 10:57:15,300: Special key Key.backspace pressed
+2024-06-10 10:57:15,673: Special key Key.backspace pressed
+2024-06-10 10:57:18,717: Special key Key.enter pressed
+2024-06-10 10:57:22,362: Special key Key.enter pressed
+2024-06-10 10:57:32,073: Special key Key.space pressed
+2024-06-10 10:57:32,616: Special key Key.space pressed
+2024-06-10 10:57:33,025: Special key Key.space pressed
+2024-06-10 10:57:33,334: Special key Key.space pressed
+2024-06-10 10:57:33,593: Special key Key.space pressed
+2024-06-10 10:57:33,845: Special key Key.space pressed
+2024-06-10 10:57:34,079: Special key Key.space pressed
+2024-06-10 10:57:34,666: Special key Key.space pressed
+2024-06-10 10:57:36,325: Special key Key.shift_r pressed
+2024-06-10 10:57:36,529: KEY_SEMICOLON
+2024-06-10 10:57:38,385: Special key Key.backspace pressed
+2024-06-10 10:57:38,623: Special key Key.space pressed
+2024-06-10 10:57:38,950: Special key Key.space pressed
+2024-06-10 10:57:44,369: Special key Key.backspace pressed
+2024-06-10 10:57:44,791: Special key Key.backspace pressed
+2024-06-10 10:57:45,638: Special key Key.enter pressed
+2024-06-10 10:57:48,089: Special key Key.backspace pressed
+2024-06-10 10:57:50,367: Special key Key.enter pressed
+2024-06-10 10:57:51,146: Special key Key.backspace pressed
+2024-06-10 10:57:53,194: Special key Key.enter pressed
+2024-06-10 10:58:44,683: Special key Key.backspace pressed
+2024-06-10 10:58:44,970: KEY_D
+2024-06-10 10:58:45,252: KEY_O
+2024-06-10 10:58:45,720: KEY_C
+2024-06-10 10:58:46,085: KEY_U
+2024-06-10 10:58:46,605: Special key Key.backspace pressed
+2024-06-10 10:58:47,437: KEY_U
+2024-06-10 10:58:47,636: KEY_M
+2024-06-10 10:58:47,781: KEY_E
+2024-06-10 10:58:48,048: KEY_N
+2024-06-10 10:58:48,368: KEY_T
+2024-06-10 10:58:48,467: KEY_A
+2024-06-10 10:58:48,574: KEY_T
+2024-06-10 10:58:49,283: KEY_I
+2024-06-10 10:58:49,452: KEY_O
+2024-06-10 10:58:49,679: KEY_N
+2024-06-10 10:58:49,869: Special key Key.shift pressed
+2024-06-10 10:58:50,005: KEY_MINUS
+2024-06-10 10:58:50,900: KEY_K
+2024-06-10 10:58:51,120: KEY_E
+2024-06-10 10:58:51,311: KEY_Y
+2024-06-10 10:58:51,669: KEY_L
+2024-06-10 10:58:51,833: KEY_O
+2024-06-10 10:58:52,121: KEY_G
+2024-06-10 10:58:52,246: KEY_G
+2024-06-10 10:58:52,359: KEY_E
+2024-06-10 10:58:52,568: KEY_R
+2024-06-10 10:59:31,000: KEY_1
+2024-06-10 10:59:31,530: KEY_COMMA
+2024-06-10 10:59:31,788: KEY_2
+2024-06-10 10:59:31,957: KEY_COMMA
+2024-06-10 10:59:32,565: KEY_3
+2024-06-10 10:59:32,735: KEY_COMMA
+2024-06-10 10:59:32,931: KEY_4
+2024-06-10 10:59:42,001: KEY_K
+2024-06-10 10:59:42,339: KEY_E
+2024-06-10 10:59:42,505: KEY_Y
+2024-06-10 10:59:43,147: KEY_L
+2024-06-10 10:59:43,313: KEY_O
+2024-06-10 10:59:43,557: KEY_G
+2024-06-10 10:59:43,717: KEY_G
+2024-06-10 10:59:43,956: KEY_E
+2024-06-10 10:59:44,119: KEY_R
+2024-06-10 10:59:44,491: Special key Key.shift pressed
+2024-06-10 10:59:44,585: KEY_MINUS
+2024-06-10 10:59:45,383: KEY_D
+2024-06-10 10:59:45,700: KEY_O
+2024-06-10 10:59:45,938: KEY_C
+2024-06-10 10:59:46,131: KEY_U
+2024-06-10 10:59:46,360: KEY_M
+2024-06-10 10:59:46,522: KEY_E
+2024-06-10 10:59:46,649: KEY_N
+2024-06-10 10:59:46,948: KEY_T
+2024-06-10 10:59:47,079: KEY_A
+2024-06-10 10:59:47,236: KEY_T
+2024-06-10 10:59:47,510: KEY_I
+2024-06-10 10:59:47,663: KEY_O
+2024-06-10 10:59:47,894: KEY_N
+2024-06-10 11:01:32,520: Special key Key.backspace pressed
+2024-06-10 11:01:32,940: Special key Key.backspace pressed
+2024-06-10 11:01:48,438: Special key Key.backspace pressed
+2024-06-10 11:01:48,856: Special key Key.backspace pressed
+2024-06-10 11:01:49,378: Special key Key.backspace pressed
+2024-06-10 11:01:56,102: Special key Key.ctrl_l pressed
+2024-06-10 11:01:58,392: Special key Key.ctrl_l pressed
+2024-06-10 11:02:00,267: Special key Key.ctrl_l pressed
+2024-06-10 11:02:03,439: Special key Key.ctrl_l pressed
+2024-06-10 11:02:13,355: Special key Key.delete pressed
+2024-06-10 11:02:14,317: Special key Key.delete pressed
+2024-06-10 11:02:14,697: Special key Key.delete pressed
+2024-06-10 11:02:14,987: Special key Key.delete pressed
+2024-06-10 11:02:15,205: Special key Key.delete pressed
+2024-06-10 11:02:17,796: Special key Key.delete pressed
+2024-06-10 11:02:42,586: Special key Key.ctrl_l pressed
+2024-06-10 11:02:42,782: KEY_G
+2024-06-10 11:02:45,434: KEY_5
+2024-06-10 11:03:01,690: KEY_BACKSLASH
+2024-06-10 11:03:02,543: KEY_P
+2024-06-10 11:03:02,921: KEY_A
+2024-06-10 11:03:03,076: KEY_G
+2024-06-10 11:03:03,287: KEY_E
+2024-06-10 11:03:11,911: Special key Key.backspace pressed
+2024-06-10 11:03:12,223: Special key Key.backspace pressed
+2024-06-10 11:03:12,391: Special key Key.backspace pressed
+2024-06-10 11:03:12,539: Special key Key.backspace pressed
+2024-06-10 11:03:12,689: Special key Key.backspace pressed
+2024-06-10 11:03:36,180: Special key Key.ctrl_l pressed
+2024-06-10 11:03:36,474: Special key Key.shift pressed
+2024-06-10 11:03:42,299: Special key Key.ctrl_l pressed
+2024-06-10 11:03:43,036: Special key Key.shift pressed
+2024-06-10 11:03:43,304: Special key Key.backspace pressed
+2024-06-10 11:03:43,713: Special key Key.shift pressed
+2024-06-10 11:03:44,056: Special key Key.backspace pressed
+2024-06-10 11:03:44,521: Special key Key.backspace pressed
+2024-06-10 11:03:44,736: Special key Key.backspace pressed
+2024-06-10 11:03:56,615: Special key Key.backspace pressed
+2024-06-10 11:03:56,858: Special key Key.backspace pressed
+2024-06-10 11:05:44,503: KEY_H
+2024-06-10 11:05:44,712: KEY_O
+2024-06-10 11:05:44,886: KEY_W
+2024-06-10 11:05:45,031: Special key Key.space pressed
+2024-06-10 11:05:45,327: KEY_T
+2024-06-10 11:05:45,481: KEY_O
+2024-06-10 11:05:45,671: Special key Key.space pressed
+2024-06-10 11:05:45,851: KEY_I
+2024-06-10 11:05:46,068: KEY_N
+2024-06-10 11:05:46,210: KEY_S
+2024-06-10 11:05:46,409: KEY_E
+2024-06-10 11:05:46,693: KEY_R
+2024-06-10 11:05:46,909: KEY_T
+2024-06-10 11:05:47,108: Special key Key.space pressed
+2024-06-10 11:05:47,518: KEY_T
+2024-06-10 11:05:47,750: KEY_H
+2024-06-10 11:05:47,939: KEY_E
+2024-06-10 11:05:48,110: Special key Key.space pressed
+2024-06-10 11:05:48,950: Special key Key.backspace pressed
+2024-06-10 11:05:49,105: Special key Key.backspace pressed
+2024-06-10 11:05:49,303: Special key Key.backspace pressed
+2024-06-10 11:05:49,955: KEY_H
+2024-06-10 11:05:50,117: KEY_I
+2024-06-10 11:05:50,295: KEY_S
+2024-06-10 11:05:50,413: Special key Key.space pressed
+2024-06-10 11:05:50,588: KEY_D
+2024-06-10 11:05:50,807: KEY_O
+2024-06-10 11:05:51,039: KEY_C
+2024-06-10 11:05:51,158: KEY_U
+2024-06-10 11:05:51,358: KEY_M
+2024-06-10 11:05:51,489: KEY_E
+2024-06-10 11:05:51,612: KEY_N
+2024-06-10 11:05:51,811: KEY_T
+2024-06-10 11:05:52,062: Special key Key.space pressed
+2024-06-10 11:05:52,264: KEY_I
+2024-06-10 11:05:52,484: KEY_N
+2024-06-10 11:05:52,662: Special key Key.space pressed
+2024-06-10 11:05:52,901: KEY_P
+2024-06-10 11:05:53,100: KEY_Y
+2024-06-10 11:05:53,757: KEY_C
+2024-06-10 11:05:53,914: KEY_H
+2024-06-10 11:05:54,101: KEY_A
+2024-06-10 11:05:54,216: KEY_R
+2024-06-10 11:05:54,761: KEY_M
+2024-06-10 11:05:55,084: Special key Key.enter pressed
+2024-06-10 11:07:29,757: KEY_G
+2024-06-10 11:07:29,953: KEY_I
+2024-06-10 11:07:30,127: KEY_T
+2024-06-10 11:07:30,310: KEY_H
+2024-06-10 11:07:30,485: KEY_U
+2024-06-10 11:07:30,616: KEY_B
+2024-06-10 11:07:30,835: Special key Key.enter pressed
+2024-06-10 11:07:34,191: Special key Key.ctrl_l pressed
+2024-06-10 11:07:52,149: KEY_K
+2024-06-10 11:07:52,365: KEY_E
+2024-06-10 11:07:52,566: KEY_Y
+2024-06-10 11:07:52,987: KEY_L
+2024-06-10 11:07:53,163: KEY_O
+2024-06-10 11:07:53,439: KEY_G
+2024-06-10 11:07:53,583: KEY_G
+2024-06-10 11:07:53,744: KEY_E
+2024-06-10 11:07:53,980: KEY_R
+2024-06-10 11:08:02,723: KEY_P
+2024-06-10 11:08:03,017: KEY_U
+2024-06-10 11:08:03,830: KEY_S
+2024-06-10 11:08:03,998: KEY_H
+2024-06-10 11:08:04,196: Special key Key.space pressed
+2024-06-10 11:08:04,457: KEY_T
+2024-06-10 11:08:04,593: KEY_H
+2024-06-10 11:08:04,809: KEY_I
+2024-06-10 11:08:05,033: KEY_S
+2024-06-10 11:08:05,243: Special key Key.space pressed
+2024-06-10 11:08:05,431: KEY_I
+2024-06-10 11:08:05,637: KEY_N
+2024-06-10 11:08:05,758: KEY_T
+2024-06-10 11:08:05,887: KEY_O
+2024-06-10 11:08:06,375: Special key Key.backspace pressed
+2024-06-10 11:08:06,884: Special key Key.backspace pressed
+2024-06-10 11:08:06,914: Special key Key.backspace pressed
+2024-06-10 11:08:06,944: Special key Key.backspace pressed
+2024-06-10 11:08:06,977: Special key Key.backspace pressed
+2024-06-10 11:08:07,004: Special key Key.backspace pressed
+2024-06-10 11:08:07,035: Special key Key.backspace pressed
+2024-06-10 11:08:07,067: Special key Key.backspace pressed
+2024-06-10 11:08:07,095: Special key Key.backspace pressed
+2024-06-10 11:08:07,126: Special key Key.backspace pressed
+2024-06-10 11:08:07,157: Special key Key.backspace pressed
+2024-06-10 11:08:07,187: Special key Key.backspace pressed
+2024-06-10 11:08:07,219: Special key Key.backspace pressed
+2024-06-10 11:08:07,247: Special key Key.backspace pressed
+2024-06-10 11:08:07,279: Special key Key.backspace pressed
+2024-06-10 11:08:07,309: Special key Key.backspace pressed
+2024-06-10 11:08:07,339: Special key Key.backspace pressed
+2024-06-10 11:08:07,372: Special key Key.backspace pressed
+2024-06-10 11:08:07,402: Special key Key.backspace pressed
+2024-06-10 11:08:07,434: Special key Key.backspace pressed
+2024-06-10 11:08:16,762: Special key Key.ctrl_l pressed
